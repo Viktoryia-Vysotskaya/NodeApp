@@ -1,0 +1,162 @@
+[
+  {
+    "gender": "male",
+    "firstName": "James",
+    "lastName": "Davis",
+    "age": 61,
+    "email": "james.davis@gmail.com",
+    "phoneNumber": "+48 482 459 203"
+  },
+  {
+    "gender": "male",
+    "firstName": "David",
+    "lastName": "Brown",
+    "age": 26,
+    "email": "david.brown@gmail.com",
+    "phoneNumber": "+48 838 034 439"
+  },
+  {
+    "gender": "male",
+    "firstName": "David",
+    "lastName": "Brown",
+    "age": 33,
+    "email": "david.brown@gmail.com",
+    "phoneNumber": "+48 950 654 887"
+  },
+  {
+    "gender": "female",
+    "firstName": "Linda",
+    "lastName": "Johnson",
+    "age": 39,
+    "email": "linda.johnson@gmail.com",
+    "phoneNumber": "+48 319 415 677"
+  },
+  {
+    "gender": "male",
+    "firstName": "Robert",
+    "lastName": "Smith",
+    "age": 28,
+    "email": "robert.smith@gmail.com",
+    "phoneNumber": "+48 686 216 277"
+  },
+  {
+    "gender": "female",
+    "firstName": "Linda",
+    "lastName": "Brown",
+    "age": 44,
+    "email": "linda.brown@gmail.com",
+    "phoneNumber": "+48 836 563 676"
+  },
+  {
+    "gender": "female",
+    "firstName": "Linda",
+    "lastName": "Johnson",
+    "age": 24,
+    "email": "linda.johnson@gmail.com",
+    "phoneNumber": "+48 280 155 730"
+  },
+  {
+    "gender": "female",
+    "firstName": "Patricia",
+    "lastName": "Wilson",
+    "age": 44,
+    "email": "patricia.wilson@gmail.com",
+    "phoneNumber": "+48 614 127 897"
+  },
+  {
+    "gender": "male",
+    "firstName": "Robert",
+    "lastName": "Johnson",
+    "age": 65,
+    "email": "robert.johnson@gmail.com",
+    "phoneNumber": "+48 442 611 524"
+  },
+  {
+    "gender": "male",
+    "firstName": "Robert",
+    "lastName": "Johnson",
+    "age": 53,
+    "email": "robert.johnson@gmail.com",
+    "phoneNumber": "+48 893 663 412"
+  },
+  {
+    "gender": "male",
+    "firstName": "David",
+    "lastName": "Davis",
+    "age": 46,
+    "email": "david.davis@gmail.com",
+    "phoneNumber": "+48 751 339 324"
+  },
+  {
+    "gender": "female",
+    "firstName": "Elizabeth",
+    "lastName": "Davis",
+    "age": 36,
+    "email": "elizabeth.davis@gmail.com",
+    "phoneNumber": "+48 203 266 468"
+  },
+  {
+    "gender": "male",
+    "firstName": "John",
+    "lastName": "Davis",
+    "age": 19,
+    "email": "john.davis@gmail.com",
+    "phoneNumber": "+48 957 436 947"
+  },
+  {
+    "gender": "female",
+    "firstName": "Elizabeth",
+    "lastName": "Wilson",
+    "age": 33,
+    "email": "elizabeth.wilson@gmail.com",
+    "phoneNumber": "+48 460 831 561"
+  },
+  {
+    "gender": "female",
+    "firstName": "Linda",
+    "lastName": "Brown",
+    "age": 45,
+    "email": "linda.brown@gmail.com",
+    "phoneNumber": "+48 663 696 745"
+  },
+  {
+    "gender": "male",
+    "firstName": "David",
+    "lastName": "Brown",
+    "age": 27,
+    "email": "david.brown@gmail.com",
+    "phoneNumber": "+48 989 538 027"
+  },
+  {
+    "gender": "female",
+    "firstName": "Mary",
+    "lastName": "Davis",
+    "age": 57,
+    "email": "mary.davis@gmail.com",
+    "phoneNumber": "+48 182 703 035"
+  },
+  {
+    "gender": "female",
+    "firstName": "Elizabeth",
+    "lastName": "Anderson",
+    "age": 62,
+    "email": "elizabeth.anderson@gmail.com",
+    "phoneNumber": "+48 967 539 147"
+  },
+  {
+    "gender": "male",
+    "firstName": "Michael",
+    "lastName": "Wilson",
+    "age": 63,
+    "email": "michael.wilson@gmail.com",
+    "phoneNumber": "+48 669 478 964"
+  },
+  {
+    "gender": "female",
+    "firstName": "Patricia",
+    "lastName": "Brown",
+    "age": 45,
+    "email": "patricia.brown@gmail.com",
+    "phoneNumber": "+48 547 666 756"
+  }
+]
