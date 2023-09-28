@@ -11,15 +11,22 @@ function randChoice(arr) {
 }
 
 function generateEmail(firstName, lastName) {
-    const email = `${firstName.toLowerCase()}.${lastName.toLowerCase()}@gmail.com`;
-    return email;
+    return `${firstName.toLowerCase()}.${lastName.toLowerCase()}@gmail.com`;
 }
 
 function generatePhoneNumber() {
-    const randomNumber = Math.floor(1000000000 + Math.random() * 9000000000);
-    const formattedPhoneNumber = `+48 ${String(randomNumber).substring(0, 3)} ${String(randomNumber).substring(3, 6)} ${String(randomNumber).substring(6, 9)}`;
-    const phoneNumber = formattedPhoneNumber;
-    return phoneNumber;
+// The minimum and maximum possible values ​​for a phone number
+const minPhoneNumber = 1000000000;
+const maxPhoneNumber = 9999999999;
+
+// Generating a random phone number
+const randomNumber = Math.floor(minPhoneNumber + Math.random() * (maxPhoneNumber - minPhoneNumber + 1));
+
+// Format a phone number
+const formattedPhoneNumber = `+48 ${String(randomNumber).substring(0, 3)} ${String(randomNumber).substring(3, 6)} ${String(randomNumber).substring(6, 9)}`;
+
+return formattedPhoneNumber;
+
 }
 
 const people = [];
